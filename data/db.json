@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "create new home banner",
+      "details": "lorem sepsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing Website",
+      "details": "lorem sepsum",
+      "complete": true
+    },
+    {
+      "title": "Join a New crew",
+      "details": "all the steves",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
